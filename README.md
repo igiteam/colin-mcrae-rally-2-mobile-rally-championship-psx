@@ -11,7 +11,7 @@ A total conversion project that rebuilds the structure of *Mobile Rally Champion
 ## Base of the gameplay
 [![Mobil 1 Rally Championship PS1 Gameplay HD](https://img.youtube.com/vi/zB5so_EhTig/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ekI1c29fRWhUaWc)
 
-[![Playthrough [PSX] Mobil 1 Rally Championship](https://i.ytimg.com/vi/z3hA25uQEk8/sddefault.jpg)](https://ytembed.macosxjs.com/?am11QUV1OEFfRE0)
+[![Mobil 1 Rally Championship PSX](https://i.ytimg.com/vi/z3hA25uQEk8/sddefault.jpg)](https://ytembed.macosxjs.com/?am11QUV1OEFfRE0)
 
 [![You Need To Play This New Colin McRae Rally 2.0 Recomp #colinmcraerally #remasteredgames #fangame](https://img.youtube.com/vi/sLnOyzhmp6A/maxresdefault.jpg)](https://ytembed.macosxjs.com/?c0xuT3l6aG1wNkE)
 

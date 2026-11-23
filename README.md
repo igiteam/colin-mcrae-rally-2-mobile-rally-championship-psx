@@ -457,6 +457,11 @@ keeps its own licence: SDL3 (zlib), ENet (MIT), Potrace (GPL-2.0-or-later),
 the Bink decoder (LGPL-2.1) and RadialGamePad (GPL-3.0).
 
 
+OpenCMR2 is an unofficial project, not affiliated with or endorsed by
+Codemasters or Electronic Arts. Colin McRae Rally 2.0 is a trademark of its
+respective owners.
+
+
 ## Dev Environment
 
 **Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
@@ -491,8 +496,3 @@ the Bink decoder (LGPL-2.1) and RadialGamePad (GPL-3.0).
 
 ---
 
-
-
-OpenCMR2 is an unofficial project, not affiliated with or endorsed by
-Codemasters or Electronic Arts. Colin McRae Rally 2.0 is a trademark of its
-respective owners.
